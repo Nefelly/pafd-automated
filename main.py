@@ -9,7 +9,7 @@ from requests import session
 
 class Fudan:
     """
-    建立与复旦服务器的会话，执行登录/登出操作
+    建立与复旦服务器的会话，执行登录/登出操作 ...
     """
     UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0"
 
